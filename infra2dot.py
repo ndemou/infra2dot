@@ -2,7 +2,12 @@ import re
 import sys
 import pprint
 
-#VERSION 1.1
+# VERSION 1.1
+# ==TIP==
+# cd "bin\infra2dot"
+# python infra2dot.py -f test.infra -t test-infra.dot; cat .\test-infra.dot
+
+#******************************************
 #
 # TODO:
 #     Use the "Closer" section for invisible connections. E.g.:
