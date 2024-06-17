@@ -74,8 +74,8 @@ Connections
 
 2. Run `infra2dot.py` like this to generate a .dot file and then an svg (or png etc):
 
-    python infra2dot.py -f test.infra -t test-infra.dot
-    dot -Tsvg test-infra.dot -o test-infra.svg
+       python infra2dot.py -f test.infra -t test-infra.dot
+       dot -Tsvg test-infra.dot -o test-infra.svg
 
 If you don't want to bother installing graphiz, copy/paste the output to some [graphiz online editor](https://www.google.com/search?q=online+graphiz+editor) like [this one](http://magjac.com/graphviz-visual-editor/) 
 
