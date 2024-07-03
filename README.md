@@ -89,8 +89,8 @@ If you have a lot of complex connections you may get a mesh of lines that is
 hard to follow. To connect two services a and b without a line from one to the 
 other you can use this trick (inspired by the GND and VCC lines of electrical 
 circuits):
-    a -- /FOO/
-    b -- /FOO/
+       a -- /FOO/
+       b -- /FOO/
 
 # FAQ
 
