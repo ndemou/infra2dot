@@ -115,6 +115,6 @@ You can not tweak little details that matter.
 
 ## Can I customize the colors or other details
 
-There's no provision for this but it's very easy to change the colors by changing the source code (search for `color`). 
+There's no provision for this but it's very easy to change the colors by changing the source code. There's absolutely no need to know python, just search for `color` and change the RGB colors. If you see colors with 4 instead of 3 values the 4th value is the transparency. 
 
-You can change other details the same way if you know a little bit about graphviz and its `.dot` language.
+You can change other details the same way, but you need to  know your way around graphviz and its `.dot` language.
