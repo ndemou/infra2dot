@@ -111,7 +111,7 @@ You can generate `.infra` texts and hence nice diagrams programmatically.
 
 You can not create your first graph without investing a few minutes to understand the syntax. 
 
-You can not tweak little details that matter.
+You can not tweak little details that may matter (like move a line or item just a little bit).
 
 ## Can I customize the colors or other details
 
